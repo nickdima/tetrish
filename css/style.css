@@ -1,0 +1,54 @@
+body {
+	background-color: #333;
+	font-family: Helvetica, Arial, sans-serif;
+	color: #E3E3E3;
+	padding-top: 60px;
+}
+
+.hidden {
+	visibility: hidden;
+	width: 0px;
+	height: 0px;
+	margin: 0px;
+	padding: 0px;
+	border-style: none;
+	border-width: 0px;
+	max-width: 0px;
+	max-height: 0px;
+}
+
+h1 {
+	font-size: 64px;
+	text-align: center;
+	margin-bottom: 0;
+	text-shadow: 2px 2px #000;
+	color: #f2b600;
+}
+h2 {
+	text-align: center;
+	font-weight: normal;
+	margin-top: 0;
+	margin-bottom: 40px;
+}
+#installPlugin {
+	text-align: center;
+	margin: 50px;
+}
+
+#installPlugin a {
+	color:#999;
+	font-weight: bold;
+	color: #f2b600;
+}
+#controls {
+	font-size: 44px;
+	text-align: center;
+	background: url(../images/controls.png) no-repeat;
+	width: 972px;
+	height: 266px;
+	margin: 80px auto;
+}
+#credits {
+	text-align: center;
+}
+#credits a {color: #CCC;}
