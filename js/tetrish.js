@@ -71,7 +71,7 @@ Jazz.MidiInOpen('User Port', midiProc);
 
 DZ.init({
   appId  : '102661',
-  channelUrl : 'http://harpdev.io:9000/channel.html',
+  channelUrl : 'http://nickdima.github.io/tetrish/channel.html',
   player : {
         onload : function(){
           console.log('player ready');
